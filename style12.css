@@ -1,0 +1,46 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    text-align: center;
+    color: red;
+}
+
+.question {
+    margin: auto;
+    background-color: lightgray;
+    width: 50%;
+    padding-bottom: 40px;
+    border: solid green;
+}
+
+span {
+    color: rgb(248, 58, 99);
+}
+
+p {
+    font-size: x-large;
+    color: blue;
+}
+
+input, select {
+    display: block;
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 25px;
+    border-style: groove;
+}
+
+.button {
+    margin-top: 10px;
+    width: 15%;
+    color: blueviolet;
+}
+
+label {
+    font-size: large;
+}
